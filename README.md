@@ -1,4 +1,5 @@
 ### Hello! welcome to my github profile 👋
+I am a java junior student and I live in benevento, campania 82100
 
 <!--
 **NicolaBoniello/NicolaBoniello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
